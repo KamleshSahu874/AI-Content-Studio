@@ -183,7 +183,7 @@ AI-Content-Studio/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-content-studio.git
+git clone https://github.com/KamleshSahu874/AI-Content-Studio.git
 ```
 
 Move into the project directory:
@@ -538,19 +538,6 @@ Through this project, developers can gain practical experience with:
 * Git and GitHub
 * Responsive UI development
 
----
-
-# 👨‍💻 Developer
-
-**Kamlesh Kumar Sahu**
-
-B.Tech Computer Science & Engineering
-
-GitHub:
-https://github.com/KamleshSahu874
-
-LinkedIn:
-https://www.linkedin.com/in/kamlesh-kumar-sahu-9b361a309/
 
 ---
 
